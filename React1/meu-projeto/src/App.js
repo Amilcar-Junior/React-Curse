@@ -4,8 +4,6 @@ import Form from './components/Form';
 
 function App(){
 
-  const nome = 'Agda'
-
   return (
     <div className="App">   
       <h1>Tentando Eventos</h1>
