@@ -60,3 +60,12 @@ Vamos acessar o método por meio de um evento;
 A sisntaxe é a mesma de uma props de dados: props.meuEvento;
 
 
+# Renderização por contição
+Pode atrelar a exibição de algum elemento a um if;
+Esta ação é chamada de renderização condicional;
+Envolvemos as tags em chaves {};
+Como as chaves executam JavaScript, criamos nossa condição;
+É possível usar o state para criar as condições;
+
+
+
