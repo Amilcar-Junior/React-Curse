@@ -68,4 +68,11 @@ Como as chaves executam JavaScript, criamos nossa condição;
 É possível usar o state para criar as condições;
 
 
+# Renderização de listas
+Para renderizar uma lista vamos primeiramente precisar de um array;
+Depois utilizamos a função map, para percorrer cada um dos itens;
+Podendo assim renderizar logo na tela;
+é possível unir operadores condicionais com a renderização de listas;
 
+
+# 
